@@ -10,7 +10,7 @@ const tribes_info = {
     blackfeet_info: 
     {
         name: "Blackfeet",
-        img: "images/Blackfeet.webp",
+        img: "images/blackfeet.webp",
         link:"https://en.wikipedia.org/wiki/Blackfeet_Nation",
         text: "The Blackfeet Nation, officially named the Blackfeet Tribe of the Blackfeet Indian Reservation of Montana, is a federally recognized tribe of Siksikaitsitapi people with an Indian reservation in Montana. Tribal members primarily belong to the Piegan Blackfeet (Ampskapi Piikani) band of the larger Blackfoot Confederacy that spans Canada and the United States.",
         population: 10938
